@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PAS\PAS\bin\Debug\net7.0\PAS.exe
+C:\Users\ASUS\source\repos\PAS\PAS\bin\Debug\net7.0\PAS.deps.json
+C:\Users\ASUS\source\repos\PAS\PAS\bin\Debug\net7.0\PAS.runtimeconfig.json
+C:\Users\ASUS\source\repos\PAS\PAS\bin\Debug\net7.0\PAS.dll
+C:\Users\ASUS\source\repos\PAS\PAS\bin\Debug\net7.0\PAS.pdb
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.dll
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\refint\PAS.dll
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.pdb
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\PAS.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PAS\PAS\obj\Debug\net7.0\ref\PAS.dll
