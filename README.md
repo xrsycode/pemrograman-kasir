@@ -1,0 +1,3 @@
+CONTOH PEMROGRAMAN KASIR MENGGUNAKAN C#
+
+copyright xrsycode 2023
